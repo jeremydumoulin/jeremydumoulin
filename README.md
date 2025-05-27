@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 I'm a **postdoctoral researcher at EPFL / PV-Lab**, working on photovoltaics and electric mobility simulations.
 I also have a strong background in **physics** and **thermal management** of solar cells and modules.
 
-## Featured Project
+## Main Projects
 
 ### [EVPV-Simulator](https://github.com/evpv-simulator/evpv)
 A Python-based, open-source simulator for analyzing the spatio-temporal charging needs of electric vehicles and the potential of solar photovoltaics in data-scarce urban regions.
