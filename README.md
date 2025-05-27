@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!  
 
-I'm a **postdoctoral researcher at [EPF / PV-Lab](https://people.epfl.ch/jeremy.dumoulin)**, working on photovoltaics and electric mobility simulations.
+I'm a **postdoctoral researcher at [EPFL / PV-Lab](https://people.epfl.ch/jeremy.dumoulin)**, working on photovoltaics and electric mobility simulations.
 I also have a strong background in **physics** and **thermal management** of solar cells and modules.
 
 ## Main Projects
